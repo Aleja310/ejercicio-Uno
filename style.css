@@ -1,0 +1,31 @@
+body {
+    background-color:#f3f4f5;
+}
+
+h1 {
+   color: black;
+  font-family: Arial;
+  font-size: 24px;
+}
+
+#parrafo {
+   color:#757575;
+   font-family: Georgia;
+   font-size: 18px;
+}
+
+h2 {
+   color: black;
+   font-family: Arial;
+}
+
+ul {
+   color:#757575;
+   font-family: Georgia;
+   font-size: 18px;
+}
+p{
+   color:#757575;
+   font-family: Georgia;
+   font-size: 18px;
+}
