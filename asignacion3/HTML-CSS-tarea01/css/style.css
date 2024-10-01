@@ -1,0 +1,54 @@
+body {
+    font-size: 18px;
+    font-family: Tahoma, sans-serif;
+    color: rebeccapurple;
+    background-color: mediumpurple;
+    line-height: 1.5;
+}
+
+article {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+aside.link {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid rebeccapurple;
+    border-radius: 5px;
+}
+
+aside.link h3 {
+    margin-top: 0;
+}
+
+h4 {
+    color: palevioletred;
+}
+
+aside.link ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+aside.link ul li {
+    margin: 5px 0;
+}
+
+aside.link ul li a {
+    color: rebeccapurple;
+    text-decoration: none;
+}
+
+aside.link ul li a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
